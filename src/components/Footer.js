@@ -6,9 +6,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-center md:text-left">
-            <p className="text-gray-400">
-              &copy; 2026 GDG on Campus - Sri Sairam Engineering College. All rights reserved.
-            </p>
+            <p>&copy; 2026 GDG on Campus - Coimbatore Institute of Technology. All rights reserved.</p>
           </div>
 
           <div className="flex items-center space-x-4">
